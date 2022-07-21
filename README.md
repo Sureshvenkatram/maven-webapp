@@ -1,2 +1,2 @@
 # maven-webapp
-Maven Webapp 2
+Maven Webapp 1
